@@ -1,7 +1,4 @@
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 本周作业：（必做）思考有多少种方式，在main函数启动一个新线程或线程池，
